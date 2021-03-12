@@ -3,4 +3,4 @@
 ![teste](Memory-Game.gif)
 
 ### :bulb:	Sobre o projeto
-<p>Simples jogo da memória construído com HTML5, CSS3 e JavaScript Puro</p>
+<p>Simples jogo da memória construído com HTML5, CSS3 e JavaScript Puro.</p>
